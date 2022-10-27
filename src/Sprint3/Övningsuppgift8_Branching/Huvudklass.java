@@ -4,7 +4,7 @@ public class Huvudklass {
 
     //Hej hej
     //hej igen
-    //hej den fjärde gången
+    //hej den femte gången
 
 
     public static void main(String[] args) {
